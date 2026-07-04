@@ -126,7 +126,7 @@ export default function Footer() {
                   href="mailto:customer.care@zandokh.com"
                   className="text-decoration-none text-dark d-flex align-items-center gap-2 text-truncate d-block"
                 >
-                  <i className="bi bi-envelope"></i> customer.care@zandokh.com
+                  <i className="bi bi-envelope"></i> simmulsakada.wu@gmail.com
                 </a>
               </li>
               <li>
